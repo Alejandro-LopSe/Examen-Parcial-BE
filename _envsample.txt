@@ -1,0 +1,4 @@
+MONGO_URL=mongo url
+DB_NAME=nombre db
+
+API_KEY=apikey

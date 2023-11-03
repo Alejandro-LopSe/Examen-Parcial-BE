@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-all --watch ./src/main.ts",
+    "deploy": "deployctl deploy --token=ddp_pybLtXGya3GD92IxHj7BZXljGs9iRx1716Vm --project=examen-back-parcial --prod ./src/main.ts"
+  }
+}
